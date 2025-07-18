@@ -1,5 +1,5 @@
-##Hello, I'm Sam!
-> BYU-I Software Dev
+## Hello, I'm Sam!
+> BYU-I Software Dev </br>
 > Founder of Cheerio Studios
 
 ## 🌐 Socials:
