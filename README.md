@@ -13,7 +13,7 @@
 ---
 
 ## 🏗️ Featured Projects (Cheerio Portfolio)
-*Custom-built cards to showcase your leadership and development work.*
+
 
 <table border="0">
   <tr>
@@ -47,7 +47,7 @@
 ---
 
 ## 📊 Studio Metrics
-*If the metrics below are broken, ensure your GitHub settings allow "Public Visibility" for your contribution data.*
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cheerios-design&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FFD300&icon_color=FFD300&text_color=ffffff&hide_border=true" width="48%" />
