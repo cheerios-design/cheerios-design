@@ -4,12 +4,12 @@
 
 <img src="./assets/marquee.svg" alt="Brand Identity · Web Design & Development · Strategy & Consulting · Digital Design · Asset Management · Maintenance & Support" width="100%" />
 
-<img src="./assets/about.svg" alt="About — We don't just design. We build systems that make your brand inevitable. Values: Intentional, Systems first, Bold but flexible, In it for the long run." width="100%" />
+<img src="./assets/about.svg" alt="About — I don't just design. I build systems that make your brand inevitable. Values: Intentional, Systems first, Bold but flexible, In it for the long run." width="100%" />
 
 <img src="./assets/services.svg" alt="Services — Brand Identity, Web Design & Development, Strategy & Consulting, Digital Design, Asset Management, Maintenance & Support" width="100%" />
 
 <a href="https://www.cheeriostudios.com/">
-  <img src="./assets/work.svg" alt="Selected work — Crave (social food app), RisingGen (web platform for young adults across Central Europe), Cheerio Studios (design studio)" width="100%" />
+  <img src="./assets/work.svg" alt="Selected work — SDMT (cinema & digital media community portal), RisingGen (web platform for young adults across Central Europe), Cheerio Studios (design studio)" width="100%" />
 </a>
 
 <img src="./assets/toolkit.svg" alt="Toolkit" width="100%" />
@@ -26,8 +26,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cheerios-design&show_icons=true&hide_title=false&bg_color=0C0D0A&title_color=D4FF1F&text_color=EFF2E8&icon_color=D4FF1F&border_color=22251D&border_radius=16" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheerios-design&layout=compact&bg_color=0C0D0A&title_color=D4FF1F&text_color=EFF2E8&border_color=22251D&border_radius=16" alt="Top languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/cheerios-design/cheerios-design/output/stats.svg" alt="GitHub stats and most used languages" width="100%" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/cheerios-design/cheerios-design/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
   <br/><br/>
@@ -47,5 +46,5 @@
 <img src="./assets/footer.svg" alt="One voice. One visual. One studio. — Cheerio Studios" width="100%" />
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cheerios-design&icon=2&color=D4FF1F" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=cheerios-design&label=VISITORS&color=0c0d0a&style=for-the-badge" alt="Visitor count" />
 </p>
