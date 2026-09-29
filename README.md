@@ -1,85 +1,51 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD300&height=250&section=header&text=SAM%20DARAMROEI&fontSize=75&fontColor=000000&animation=fadeIn&desc=Founder%20of%20Cheerio%20Studio%20%7C%20Software%20Developer&descSize=20&descAlignY=65" width="100%" />
+<a href="https://www.cheeriostudios.com/">
+  <img src="./assets/hero.svg" alt="Sam Daramroei — Founder of Cheerio Studios. Most businesses confuse having a website with having a presence. I work in the gap between the two." width="100%" />
+</a>
 
+<img src="./assets/marquee.svg" alt="Brand Identity · Web Design & Development · Strategy & Consulting · Digital Design · Asset Management · Maintenance & Support" width="100%" />
+
+<img src="./assets/about.svg" alt="About — We don't just design. We build systems that make your brand inevitable. Values: Intentional, Systems first, Bold but flexible, In it for the long run." width="100%" />
+
+<img src="./assets/services.svg" alt="Services — Brand Identity, Web Design & Development, Strategy & Consulting, Digital Design, Asset Management, Maintenance & Support" width="100%" />
+
+<a href="https://www.cheeriostudios.com/">
+  <img src="./assets/work.svg" alt="Selected work — Crave (social food app), RisingGen (web platform for young adults across Central Europe), Cheerio Studios (design studio)" width="100%" />
+</a>
+
+<img src="./assets/toolkit.svg" alt="Toolkit" width="100%" />
+
+<div align="center">
   <br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD300&center=true&vCenter=true&width=600&lines=Designing+the+Future+at+Cheerio+Studio;Building+Crave:+The+Social+Food+App;GDG+on+Campus+Lead;Crafting+Digital+Experiences" />
-
-  <p align="center">
-    <b>Transforming complex problems into elegant, design-driven solutions.</b>
-  </p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr&theme=dark" alt="Figma, Illustrator, Photoshop, After Effects, Premiere Pro" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,dotnet,cs,python,mysql&theme=dark" alt="React, Next.js, Tailwind, Three.js, .NET, C#, Python, MySQL" />
+  <br/><br/>
 </div>
 
----
+<img src="./assets/activity.svg" alt="Activity" width="100%" />
 
-## 🏗️ Featured Projects (Cheerio Portfolio)
-
-
-<table border="0">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/CRAVE-FFD300?style=for-the-badge&logo=fastapi&logoColor=black" /><br/>
-      <b>Social Food App</b><br/>
-      <i>Building a community-driven platform for foodies.</i>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/RISINGGEN-000000?style=for-the-badge&logo=react&logoColor=FFD300" /><br/>
-      <b>Web Platform</b><br/>
-      <i>Empowering young adults across Central Europe.</i>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/CHEERIO_STUDIO-FFD300?style=for-the-badge&logo=adobe&logoColor=black" /><br/>
-      <b>Design Agency</b><br/>
-      <i>Full-service UI/UX and graphic design solutions.</i>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ The Tech Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,dotnet,cs,python,mysql&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cheerios-design&show_icons=true&hide_title=false&bg_color=0C0D0A&title_color=D4FF1F&text_color=EFF2E8&icon_color=D4FF1F&border_color=22251D&border_radius=16" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheerios-design&layout=compact&bg_color=0C0D0A&title_color=D4FF1F&text_color=EFF2E8&border_color=22251D&border_radius=16" alt="Top languages" width="49%" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/cheerios-design/cheerios-design/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  <br/><br/>
 </div>
 
----
+<img src="./assets/contact.svg" alt="Let's talk — brand systems, web builds, or just a good conversation." width="100%" />
 
-## 📊 Studio Metrics
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheerios-design&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FFD300&icon_color=FFD300&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheerios-design&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FFD300&text_color=ffffff&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🕹️ Contribution Flow</h3>
-  <img src="https://raw.githubusercontent.com/cheerios-design/cheerios-design/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
-</div>
-
----
-
-## 💬 Let's Connect
-<div align="center">
-  <a href="https://linkedin.com/in/sam-daramroei">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/who.stole.my.cheerios">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:samdotmc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.cheeriostudios.com">
-    <img src="https://img.shields.io/badge/Cheerio_Studio-FFD300?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-</div>
-
-<br/>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cheerios-design&icon=2&color=FFD300" />
+  <br/>
+  <a href="https://www.cheeriostudios.com/"><img src="./assets/btn-website.svg" alt="cheeriostudios.com" height="56" /></a>
+  <a href="https://linkedin.com/in/sam-daramroei"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="56" /></a>
+  <a href="https://instagram.com/who.stole.my.cheerios"><img src="./assets/btn-instagram.svg" alt="Instagram" height="56" /></a>
+  <a href="mailto:sam.d@cheeriostudios.com"><img src="./assets/btn-email.svg" alt="Email" height="56" /></a>
+  <br/><br/>
+</p>
+
+<img src="./assets/footer.svg" alt="One voice. One visual. One studio. — Cheerio Studios" width="100%" />
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=cheerios-design&icon=2&color=D4FF1F" alt="Visitor count" />
 </p>
