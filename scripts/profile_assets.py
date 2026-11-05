@@ -372,9 +372,9 @@ def work():
     s.css.append(REVEAL)
     y = section_head(s, "03", "WORK", "SELECTED WORK", "Things in the making.") + 40
     projects = [
-        ("COMMUNITY PORTAL", "SDMT", "Cinema & digital media community portal for BAIBU.", ["NEXT.JS", "SUPABASE"], "sdmt"),
-        ("WEB PLATFORM", "RisingGen", "Empowering young adults across Central Europe.", ["REACT", "NEXT.JS"], "rising"),
-        ("DESIGN STUDIO", "Cheerio Studios", "My full-service brand, UI/UX and web studio.", ["BRAND", "WEB"], "cheerio"),
+        ("CLIENT PLATFORM", "SDMT", "Brand, public site and management panel for a university cinema club.", ["NEXT.JS", "SUPABASE"], "sdmt"),
+        ("E-COMMERCE", "Key Leaves", "Shopify rebuild and email program: sales +21%, orders +24% in 92 days.", ["SHOPIFY", "KLAVIYO"], "keyleaves"),
+        ("OPEN SOURCE", "Events API", "Express + Supabase REST API with row-level security and 36 tests.", ["EXPRESS", "SUPABASE"], "api"),
     ]
     gap = 20
     cw, ch, vh = (W - 2 * PAD - 2 * gap) / 3, 424, 200
@@ -386,14 +386,14 @@ def work():
         if vis == "sdmt":
             s.add(f'<rect x="{f(vx)}" y="{vy}" width="{f(vw)}" height="{vh}" rx="10" fill="{LIME}"/>')
             c = 9; s.add(pixel_text("SDMT", vx + (vw - pixel_width("SDMT", c)) / 2, vy + (vh - 5 * c) / 2, c, INK, animate=False))
-        elif vis == "rising":
+        elif vis == "keyleaves":
             s.add(f'<rect x="{f(vx)}" y="{vy}" width="{f(vw)}" height="{vh}" rx="10" fill="{INK3}"/>')
             c = 7
-            s.add(pixel_text("RISING", vx + (vw - pixel_width("RISING", c)) / 2, vy + vh / 2 - 5 * c - 5, c, PAPER, animate=False))
-            s.add(pixel_text("GEN", vx + (vw - pixel_width("GEN", c)) / 2, vy + vh / 2 + 5, c, LIME, animate=False))
+            s.add(pixel_text("KEY", vx + (vw - pixel_width("KEY", c)) / 2, vy + vh / 2 - 5 * c - 5, c, PAPER, animate=False))
+            s.add(pixel_text("LEAVES", vx + (vw - pixel_width("LEAVES", c)) / 2, vy + vh / 2 + 5, c, LIME, animate=False))
         else:
             s.add(f'<rect x="{f(vx)}" y="{vy}" width="{f(vw)}" height="{vh}" rx="10" fill="{GHOST}"/>')
-            c = 14; s.add(bitmap(MASCOT, vx + (vw - 9 * c) / 2, vy + (vh - 9 * c) / 2, c, LIME))
+            c = 12; s.add(pixel_text("API", vx + (vw - pixel_width("API", c)) / 2, vy + (vh - 5 * c) / 2, c, LIME, animate=False))
         s.text(vx + 8, y + vh + 12 + 40, f"0{k + 1} — {tag}", "mono", 12, MUTE, ls=1.5)
         s.text(vx + 8, y + vh + 12 + 80, name, "grotesk", 28, PAPER, ls=-0.6)
         dl = wrap(desc, "inter", 15, vw - 24)
@@ -406,7 +406,7 @@ def work():
             s.add(f'<rect x="{f(cxp)}" y="{cy_}" width="{f(tw + 24)}" height="28" rx="14" fill="none" stroke="{GHOST}"/>')
             s.text(cxp + 12, cy_ + 18, chip, "mono", 11, PAPER, ls=1.2)
             cxp += tw + 32
-    s.save("work.svg", "Selected work — SDMT, RisingGen, Cheerio Studios")
+    s.save("work.svg", "Selected work — SDMT, Key Leaves, Events API")
 
 
 # ======================= small section headers =======================
